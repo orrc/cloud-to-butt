@@ -1,9 +1,10 @@
 cloud-to-butt
 =============
 
-Chrome extension that replaces occurrences of 'the cloud' with 'my butt'
+Chrome extension that replaces occurrences of 'the cloud' with 'my butt'.
+I forked it from [panicsteve](https://github.com/panicsteve/cloud-to-butt) and added some basic German support too (if you ignore the genitive).
 
-[Direct download of crx file](https://github.com/panicsteve/cloud-to-butt/blob/master/CloudToButt.crx?raw=true)
+* [Direct download of CRX file](https://github.com/orrc/cloud-to-butt/blob/master/CloudToButt.crx?raw=true)
 
 Screenshot Gallery
 ------------------
